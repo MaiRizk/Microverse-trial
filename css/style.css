@@ -1,4 +1,14 @@
 .image {
     max-width: 100%;
     height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .img-div {
+    text-align: center;
+  }
+
+  body {
+    text-align: center;
   }
